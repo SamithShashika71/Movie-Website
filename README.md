@@ -50,11 +50,13 @@ npm install
 npm start
 Open browser → http://localhost:3000
 
+---
 
 ❤️ Acknowledgments
 
 This project was made possible by a grant from MongoDB and support from Scrimba.
 
+---
 
 👨‍💻 Author
 
